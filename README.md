@@ -1,2 +1,2 @@
 # public-certificates
-Public Certificates For Logz.io Related Shippers
+Public Certificates For Logz.io Related Beats Shippers
